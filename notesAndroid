@@ -1,0 +1,2 @@
+
+Create obj from ListView class, where I can add item in while loop. As long as there is something to read, the component in my_row will be shown.

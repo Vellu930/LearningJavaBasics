@@ -1,0 +1,51 @@
+City centre
+Car park
+Telephone booth
+Pavement
+Cycle path
+Traffic jam
+Street lights
+Crossroads
+Flyover
+Underpass
+Roundabout
+Pedestrian crossing
+Road sign
+Traffic lights
+School
+Library
+Bookstore
+Post office
+Pharmacy
+Hospital
+Police station
+Bank
+Bus stop
+Airport
+Train station
+Petrol station
+Hotel
+Church
+Factory
+Garage
+Market
+Supermarket
+Bakery
+Cafe
+Restaurant
+Clothing store
+Shoe shop
+Theater
+Cinema
+Amusement park
+Sports centre
+Playground
+Bridge
+Museum
+Swimming pool
+Farm
+Park
+Zoo
+Mental Hospital
+Household
+Temple

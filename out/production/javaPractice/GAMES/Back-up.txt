@@ -1,0 +1,22 @@
+
+hangman:
+
+for (char c : guessCharacter) {
+            c = '_';
+            System.out.print(c + " ");
+        }
+        --------------------------
+
+        for (int i = 0; i < wordCharacters.length; i++) {
+            if (guess == wordCharacters[i]) {
+                guessCharacter[i] = wordCharacters[i];
+                found = true;
+            } else {
+                guessCharacter[i] = '_';
+            }
+        
+        }
+
+        for (char d : guessCharacter) {
+            System.out.print(d + " ");
+        }

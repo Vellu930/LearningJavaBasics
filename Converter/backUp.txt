@@ -1,0 +1,27 @@
+    
+    DECIMAL num to BINARY converter back up:
+
+        Scanner input = new Scanner(System.in);
+        int dec = input.nextInt();
+        int dec2;
+        int n = 1;
+        int sum = 0;
+        int finalSum = 0;
+        ArrayList<Character> binaryArray = new ArrayList<Character>();
+
+        do {
+            sum = n + n;
+            if (sum > dec) {
+                finalSum += n;
+                binaryArray.add('1');
+            } else {
+                binaryArray.add('0');
+            }
+            n = sum;
+            dec2 = dec - n;
+        } while (dec != finalSum);
+
+        for (char c : binaryArray)
+            System.out.println(c);
+
+        input.close();

@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "arrays",
+        "TicTacToe/src",
+        "Practice",
+        "Graphics/Wheel",
+        "DateAndTime",
+        "Algorithms",
+        "Regex"
+    ]
+}
