@@ -6,4 +6,4 @@ Coding challenges
 Java coding practice
 Simple games
 Java syntax
-OOP
+OOPs
