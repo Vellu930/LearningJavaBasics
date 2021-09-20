@@ -6,13 +6,3 @@ Coding challenges
 Java coding practice
 Simple games
 Java syntax
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-OOPs
-=======
-OOP
-Hello hello!
->>>>>>> cff5abc6818aed6e8626ca7d61b8b417e2a31d92
-=======
-OOPsssss
->>>>>>> Stashed changes
