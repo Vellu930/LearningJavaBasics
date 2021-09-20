@@ -1,6 +1,11 @@
 
 import java.util.Scanner;
 
+// haha!
+// what the hell is this shit???
+//testing changes in git branch only...
+
+
 public class fibonacci {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -22,6 +27,7 @@ public class fibonacci {
     }
 
     private static int fiboRecursive(int n) {
+        // two base cases
         if(n == 0){
             return 0;
          } else if(n == 1) {
